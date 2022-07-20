@@ -11,3 +11,4 @@ hardhat.config.js
 /contracts/*
 /cache
 /assets
+package-lock.json
