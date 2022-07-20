@@ -1,0 +1,12 @@
+README.old.md
+hardhat.config.js
+.env*
+/test/*
+/starknet-artifacts
+/old
+/node_modules
+/librairies_externes
+/generateur/art-engine/
+/contracts/*
+/cache
+/assets
