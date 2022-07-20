@@ -7,6 +7,7 @@ hardhat.config.js
 /node_modules
 /librairies_externes
 /generateur/art-engine/
+/generateur/documentation/design
 /contracts/*
 /cache
 /assets
